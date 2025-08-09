@@ -87,7 +87,7 @@ para acessar rotas protegidas.
 Clonar o projeto com:
 
 ```sh
-git clone https:asdasdjna
+git clone https://github.com/cosme-js/teste-cogna.git
 ```
 
 Copie o arquivo `.env.sample` para `.env` e ajuste os valores conforme necessário:
